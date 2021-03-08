@@ -70,8 +70,8 @@ So, I really want to develop and study in this area in the nearest future. I fin
 ## Education:
 --------------
 
-Institution | Qualification | Year | Owe
-------- | ---------------- | ---------- | ---------:
+Institution | Qualification | Year |
+------- | ---------------- | ---------- :
 Hogwarts School  | Graduate. Formation of a magical worldview. | 2000/2005
 St. Petersburg school of lucid dreams  | Dreamer Stalker | 2018/2019
 Research Institute of Witchcraft and Wizardry  | Engineer for technologies and methods of universal transformations | 2006/2014
